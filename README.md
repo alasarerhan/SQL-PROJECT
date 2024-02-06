@@ -1,6 +1,7 @@
 # SQL-PROJECT
 
-It includes the SQL Project I made within the scope of Data Analyst Training with Kodlasam Programming Academy.
+It includes the SQL Project I made within the scope of Data Analyst Training with Kodlasam Programming Academy. 
+Project is conducted on PostgreSQL
 The files were shared in both Turkish and English.
 In project scope
 Order Analysis, Customer Analysis, Seller Analysis and Payment Analysis were performed using the data of a company called Olist operating in Brazil.
@@ -14,6 +15,7 @@ Links to the data sets I used within the scope of the project:
 
 
 Kodlasam Programlama Akademisi ile Veri Analistliği Eğitimi Kapsamında yapmış olduğum SQL Projesini içerir.
+Proje PostgreSQL üzerinde gerçekleştirilmiştir.
 Dosyalar hem Türkçe hem de İngilizce olarak paylaşılmıştır.
 Proje kapsamında 
 Brezilya'da faaliyet gösteren Olist isimli bir şirketin verileri kullanılarak Sipariş Analizi, Müşteri Analizi, Satıcı Analizi ve Ödeme Analizi yapılmıştır.
